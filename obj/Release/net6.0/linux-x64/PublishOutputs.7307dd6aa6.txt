@@ -1,0 +1,11 @@
+D:\Projects_C#\ApiDemoApp\ApiDemo\obj\Release\net6.0\linux-x64\PubTmp\Out\ApiDemo
+D:\Projects_C#\ApiDemoApp\ApiDemo\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.Development.json
+D:\Projects_C#\ApiDemoApp\ApiDemo\obj\Release\net6.0\linux-x64\PubTmp\Out\appsettings.json
+D:\Projects_C#\ApiDemoApp\ApiDemo\obj\Release\net6.0\linux-x64\PubTmp\Out\ApiDemo.dll
+D:\Projects_C#\ApiDemoApp\ApiDemo\obj\Release\net6.0\linux-x64\PubTmp\Out\ApiDemo.deps.json
+D:\Projects_C#\ApiDemoApp\ApiDemo\obj\Release\net6.0\linux-x64\PubTmp\Out\ApiDemo.runtimeconfig.json
+D:\Projects_C#\ApiDemoApp\ApiDemo\obj\Release\net6.0\linux-x64\PubTmp\Out\ApiDemo.pdb
+D:\Projects_C#\ApiDemoApp\ApiDemo\obj\Release\net6.0\linux-x64\PubTmp\Out\Microsoft.OpenApi.dll
+D:\Projects_C#\ApiDemoApp\ApiDemo\obj\Release\net6.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.Swagger.dll
+D:\Projects_C#\ApiDemoApp\ApiDemo\obj\Release\net6.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\Projects_C#\ApiDemoApp\ApiDemo\obj\Release\net6.0\linux-x64\PubTmp\Out\Swashbuckle.AspNetCore.SwaggerUI.dll
